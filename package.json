@@ -55,10 +55,10 @@
     "webpack-cli": "3.3.10"
   },
   "dependencies": {
-    "@walletconnect/core": "git+https://github.com/ibraheemkabir/wallet-client-utils.git",
+    "@walletconnect/core": "^1.3.2-rc.0",
     "@walletconnect/iso-crypto": "^1.3.2-rc.0",
     "@walletconnect/types": "^1.3.2-rc.0",
-    "@walletconnect/utils": "git+https://github.com/ibraheemkabir/wallet-client-utils.git",
+    "@walletconnect/utils": "^1.3.2-rc.0",
     "crypto-js": "^4.0.0"
   },
   "gitHead": "165f7993c2acc907c653c02847fb02721052c6e7"
